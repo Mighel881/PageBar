@@ -1,0 +1,9 @@
+Package: com.icraze.pagebar
+Name: PageBar
+Depends: mobilesubstrate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Turn The Page Dots Into A Bar
+Maintainer: iCraze
+Author: iCraze
+Section: Tweaks
